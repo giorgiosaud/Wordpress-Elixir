@@ -1,25 +1,22 @@
 {
-  "name": "laravel-elixir",
-  "version": "4.2.0",
-  "description": "Laravel Elixir Core",
+  "name": "wordpress-elixir",
+  "version": "1.0.0",
+  "description": "Elixir for wordpress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/laravel/elixir"
+    "url": "git+https://github.com/giorgiosaud/Wordpress-Elixir.git"
   },
   "keywords": [
-    "laravel",
+    "wordpress",
     "elixir",
     "gulp"
   ],
-  "author": {
-    "name": "Taylor Otwell, Jeffrey Way"
-  },
+  "author": "Jeffrey Way -- Giorgiosaud",
   "license": "MIT",
-  "homepage": "https://github.com/laravel/elixir",
   "dependencies": {
     "babelify": "^7.2.0",
     "browser-sync": "^2.7.10",
@@ -68,5 +65,9 @@
     "chai": "^3.2.0",
     "mocha": "^2.2.5",
     "rimraf": "^2.4.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/giorgiosaud/Wordpress-Elixir/issues"
+  },
+  "homepage": "https://github.com/giorgiosaud/Wordpress-Elixir#readme"
 }
