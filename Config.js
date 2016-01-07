@@ -68,7 +68,7 @@ var config = {
      |
      */
 
-    publicPath: 'public',
+    publicPath: 'compiled',
 
     /*
      |----------------------------------------------------------------
